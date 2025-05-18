@@ -1,0 +1,22 @@
+{
+  "name": "revealjs-logo",
+  "version": "1.0.2",
+  "description": "Add one or more logos to your presentation",
+  "main": "logo/logo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyface753/RevealJS-Logo.git"
+  },
+  "author": "Sebastian Jörz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyface753/RevealJS-Logo/issues"
+  },
+  "homepage": "https://github.com/skyface753/RevealJS-Logo#readme",
+  "files": [
+    "logo/logo.js"
+  ]
+}
